@@ -36,7 +36,7 @@ DataBridge is a Spring Boot REST API that utilizes Spring Data JPA and MySQL dat
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/DataBridge.git
+   git clone https://github.com/Avadhesh2/DataBridge.git
 
 
    
